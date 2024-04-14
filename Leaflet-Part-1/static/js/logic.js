@@ -69,7 +69,7 @@ function markerSize(magnitude) {
     return magnitude * 3;
 }
 
-// Define a function to determine the marker size based on the earthquake depth. [Refs: Mod-15/Day2/Act-01]
+// Define a function to determine the marker color based on the earthquake depth. [Refs: Mod-15/Day2/Act-01]
 function markerColor(depth) {
     if (depth >= 90)return "red";
     else if (depth >= 70) return "darkorange";
