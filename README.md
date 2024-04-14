@@ -1,4 +1,5 @@
-# leaflet-challeng
+# leaflet-challenge
+(Note) In order to do this homework on leaflet-challenge, I have used the activities in class of week 15 (particular activities listed in the comment lines) and get assistance from ChatGPT/AI for develope the code of adding legend items and debugging purposes.
 
 ![image](https://github.com/hatkiet/leaflet-challenge/assets/154276115/1c03162b-9bec-4315-befa-5fd07986cb76)
 
@@ -27,9 +28,12 @@ Completed the following steps:
   
   o	Below is the screenshot of the map.
 
+<img width="1357" alt="Screenshot 2024-04-14 at 4 33 03 PM" src="https://github.com/hatkiet/leaflet-challenge/assets/154276115/3461755c-1d3b-4c1e-8e34-2f223b60aaeb">
+
+
  ![image](https://github.com/hatkiet/leaflet-challenge/assets/154276115/add8365e-e550-4fce-9886-effa31af6ce5)
 
-This part is completely optional; if it is possible, should complete this part as a way to challenge ourself and boost our new skills.
+This part is completely optional; if it is possible, I should complete this part as a way to challenge ourself and boost our new skills.
 
 
 
